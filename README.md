@@ -1,1 +1,3 @@
 MyFirstProject
+第一次使用GitKraken和GitHub
+存放一些练习代码、工程，以及练习使用Git的一些功能
